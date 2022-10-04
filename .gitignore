@@ -12,3 +12,38 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# Imported Assets
+
+## Cybercity
+Content/CyberpunkEnvironmentKit
+Content/CyberPunkLab
+Content/CyberPunkMegapack
+Content/CyberpunkWC
+Content/CyberpunkInteriorKit
+
+## Temple Exterior
+Content/AsianTemple
+
+## Temple Interior
+Content/OrionMars
+Content/SciFiOrionMarsLivingQuarters
+Content/Dropship
+Content/scifi_kitbash
+Content/SciFiKitVol2
+Content/SciFi_Box_B
+Content/SciFiBoxes_A
+
+## Space
+Content/SpaceShips_Vol1
+
+## VFX
+Content/ALL_HOLOGRAM
+Content/HoloDisplay
+Content/NiagaraHologramPack
+
+## Third Person
+Content/CyberpunkSamurai
+
+## Logic
+Content/PuzzleKit-ButtonPrototype
